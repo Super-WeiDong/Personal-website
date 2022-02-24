@@ -9,7 +9,7 @@ export const featuredPortfolio = [
         id: 2,
         title: "Portfolio Website",
         img: "assets/resume.jpg",
-        link: "https://github.com/Super-WeiDong/Jupiter",
+        link: "https://github.com/Super-WeiDong/Personal-website",
     },
     {
         id: 3,
@@ -44,7 +44,7 @@ export const featuredPortfolio = [
       id: 2,
       title: "Portfolio Website",
       img: "assets/resume.jpg",
-      link: "https://devpost.com/software/massipl",
+      link: "https://github.com/Super-WeiDong/Personal-website",
     },
     {
       id: 3,
