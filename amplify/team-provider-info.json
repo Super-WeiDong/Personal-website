@@ -1,0 +1,14 @@
+{
+    "defualt": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyinit-20220302102146-authRole",
+            "UnauthRoleArn": "arn:aws:iam::339794178304:role/amplifyinit-20220302102146-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::339794178304:role/amplifyinit-20220302102146-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplifyinit-20220302102146-deployment",
+            "UnauthRoleName": "amplifyinit-20220302102146-unauthRole",
+            "StackName": "amplifyinit-20220302102146",
+            "StackId": "arn:aws:cloudformation:us-east-1:339794178304:stack/amplifyinit-20220302102146/79bda630-9a3c-11ec-8438-125dbcd5136b"
+        }
+    }
+}
