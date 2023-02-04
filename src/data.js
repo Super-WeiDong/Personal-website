@@ -43,6 +43,12 @@ export const featuredPortfolio = [
     img: "assets/camp.png",
     link: "https://stark-brushlands-13158.herokuapp.com/",
   },
+  {
+    id: 8,
+    title: "Trip Planning App",
+    img: "assets/trip.png",
+    link: "https://hidden-ocean-55735.herokuapp.com/",
+  },
 ];
 
 export const webPortfolio = [
@@ -75,6 +81,12 @@ export const webPortfolio = [
     title: "Campground Application",
     img: "assets/camp.png",
     link: "https://stark-brushlands-13158.herokuapp.com/",
+  },
+  {
+    id: 6,
+    title: "Trip Planning App",
+    img: "assets/trip.png",
+    link: "https://hidden-ocean-55735.herokuapp.com/",
   },
 ];
 
